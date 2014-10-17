@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[sel:home|Door43 (sel)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-sel|d43-sel repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-sel/archive/master.zip|d43-sel.zip]]
+
+**Recent Changes**
+{{changes>ns = sel}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/sel|Ethnologue data]]
+
